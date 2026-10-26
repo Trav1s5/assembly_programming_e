@@ -1,5 +1,5 @@
  section .data
-    newline db 10
+    newline db 10 
 
 section .bss
     digit resb 1
